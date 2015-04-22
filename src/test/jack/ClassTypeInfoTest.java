@@ -20,5 +20,4 @@ public class ClassTypeInfoTest {
 	public void testMain() {
 		fail("Not yet implemented");
 	}
-    ddddddddsssdd
 }

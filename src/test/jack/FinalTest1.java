@@ -1,8 +1,7 @@
 package test.jack;
 
-public class FinalTest {
-	private final String fString ;
+public class FinalTest1 {
+	private final String fString = null;
 
-    print  d dfd dd
 
 }
